@@ -17,3 +17,20 @@ body{
 	background-size: 100%;
 }
 
+.tres{
+	background: url(../img/tres.jpg);
+	background-size: 120%;
+
+}
+.cuatro{
+	background: url(../img/cuatro.jpg);
+	background-size: 100%;
+}
+.letra{
+	color: black;
+}
+
+main{
+	font-family: 'Oswald', sans-serif;
+	font-family: 'Roboto Slab', serif;
+}
